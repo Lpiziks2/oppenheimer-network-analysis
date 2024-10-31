@@ -1,0 +1,2462 @@
+[
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Theoretical Physics Department Work",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Blackett",
+    "event": "Theoretical Physics Department Work",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Young Oppenheimer",
+    "event": "Theoretical Physics Department Work",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bohr",
+    "event": "Lecture at Cambridge",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bohr",
+    "event": "Physics Symposium",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "McGee",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Institute for Advanced Study Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Institute for Advanced Study Planning Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Blackett",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bohr",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Young Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Young Oppenheimer",
+    "event": "Lecture on Quantum Mechanics",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Lecture on Quantum Mechanics",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Challenge Young Oppenheimer",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Young Oppenheimer",
+    "event": "Challenge Rabi",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Question Young Oppenheimer's Integration",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Heisenberg",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lomanitz",
+    "event": "Physics Symposium",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Serber",
+    "event": "Physics Symposium",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Snyder",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Chevalier",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Frank",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Alvarez",
+    "event": "Splitting the Uranium Nucleus",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Splitting the Uranium Nucleus",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Chevalier",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tolman",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bush",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Gray",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Ruth Tolman",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Unionize the Radiation Lab",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Chevalier",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Grove",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Building a Town at Los Alamos",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Recruiting Scientists",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bainbridge",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Condron",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Concerned Scientist",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Feynman",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Serber",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bethe",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bethe",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Barbara",
+    "event": "None",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "None",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Chevalier",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "McGee (Senator)",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "House Inspection",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Gate Walkthrough",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Serber, Bethe, Condon, Neddermeyer, Kistiakowsky, Donald, Tolman, Feynman",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Serber",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Fuchs",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Serber",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Nichols",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bush",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Atomic Pile Visit",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Szilard",
+    "event": "Atomic Pile Visit",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Fermi",
+    "event": "Atomic Pile Visit",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Note Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Szilard",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Plutonium Team Assignment",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Condon",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Condon",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Condon",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Nichols",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tatlock",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Pash",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Pash",
+    "event": "Meeting with Oppenheimer",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Meeting with Pash",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Pash",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Pash",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Pash",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Pash",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Serber",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Ruth",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bohr",
+    "event": "Physics Symposium",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bohr",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Tolman",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bethe",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Serber",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bohr",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bohr",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bush",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Fermi",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Borden",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "McGee",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Hornig",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Morrison",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Hornig",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Frank",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Fuchs",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Frank",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Szilard",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Szilard",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Glasses",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Stimson",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Marshall",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Byrnes",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Bush",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Marshall",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Byrnes",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Stimson",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Stimson",
+    "event": "Military Targets Discussion",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Fermi",
+    "event": "Civilian Casualties Concerns",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Stimson",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Frank",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Frank",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "I (Richard Gott)",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bethe",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "KITTY",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "OPPENHEIMER",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "KISTIAKOWSKY",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "FERMI",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "RABI",
+    "event": "Manhattan Project Planning Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "KISTIAKOWSKY",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "OPPENHEIMER",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "GROVES",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "WEATHERMAN",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bainbridge",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Fermi",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Feynman",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bainbridge",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bainbridge",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Feynman",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Groves",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Frank",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "I (Oppenheimer)",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Feynman",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Frank",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Feynman",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kistiakowsky",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Serber",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "Government Inquiry",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "GROVES",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "TRUMAN",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Bomb Test at Trinity",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Young man",
+    "event": "Weeping in the lobby",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Woman",
+    "event": "Consoling a weeping young man",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Revelers",
+    "event": "Running past joyful",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Young physicist",
+    "event": "Bent double at the wall, distraught",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Aide",
+    "event": "Pointing at Time magazine cover",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Truman",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Byrnes",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Truman",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Borden",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Nichols",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Volpe",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Garrison",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Nichols",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Volpe",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Rabi",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Los Alamos Briefing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Lawrence",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Rabi",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Gray",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Borden",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Hill",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Pastore",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Hill",
+    "event": "Oppenheimer affair",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Evans",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Bush",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Hill",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Hill",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Groves",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Garrison",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Hill",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Senator Scott",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Hill",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Senator McGee",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Communist Party Gathering",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Teller",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Garrison",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Volpe",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Robb",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Gray",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Security Clearance Review",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Strauss",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "AEC Meeting",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Scientific Debate at Princeton",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Einstein",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Strauss",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Kitty",
+    "event": "Press Conference",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Frank",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Oppenheimer",
+    "event": "Senate Hearing",
+    "interaction_nature": "Passive"
+  },
+  {
+    "character": "Lyndon Johnson",
+    "event": "Press Conference",
+    "interaction_nature": "Active"
+  },
+  {
+    "character": "Teller",
+    "event": "Government Inquiry",
+    "interaction_nature": "Active"
+  }
+]
