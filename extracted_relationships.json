@@ -1,0 +1,3040 @@
+[
+  {
+    "from": "Oppenheimer",
+    "to": "Second Voice (O.S.)",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide (V.O.)",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Blackett",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bohr",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Niels Bohr",
+    "type": "support",
+    "theme_type": "Intellectual Collaboration",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Senator McGee",
+    "to": "Strauss",
+    "type": "political rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Einstein",
+    "type": "admiration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Einstein",
+    "type": "intellectual collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Blackett",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Blackett",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Oppenheimer",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Blackett",
+    "to": "Bohr",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Einstein",
+    "to": "Strauss",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Young Oppenheimer",
+    "to": "Rabi",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Rabi",
+    "to": "Heisenberg",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Heisenberg",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Heisenberg",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Alvarez",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Alvarez",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lomanitz",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Serber",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Snyder",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Snyder",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lomanitz",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "Personal Conflict",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senator Bartlett",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Frank",
+    "to": "Oppenheimer",
+    "type": "Family Loyalty",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Jackie",
+    "to": "Frank",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Chevalier",
+    "to": "Oppenheimer",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Chevalier",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Chevalier",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Tatlock",
+    "to": "Oppenheimer",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Tatlock",
+    "to": "Chevalier",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Frank",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Alvarez",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Alvarez",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Chevalier",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Eltenton",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "Professional Mentorship",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tolman",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bush",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Serber",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Knowledge and Discovery",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Snyder",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Robb",
+    "type": "Professional Mentorship",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Ruth Tolman",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Steve Nelson",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Tatlock",
+    "to": "Oppenheimer",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lomanitz",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Tatlock",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Lomanitz",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Borden",
+    "to": "Oppenheimer",
+    "type": "Betrayal",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Volpe",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Volpe",
+    "type": "support",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Chevalier",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Heisenberg",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Groves",
+    "to": "Heisenberg",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Gadget",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bainbridge",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Donald",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Condron",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Condron",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Concerned Scientist",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Concerned Scientist",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Feynman",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bohr",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Rabi",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Feynman",
+    "type": "intellectual collaboration",
+    "theme_type": "Intellectual Collaboration",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Serber",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Bethe",
+    "to": "Teller",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bethe",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Einstein",
+    "type": "intellectual collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "G\u00f6del",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Einstein",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bethe",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Barbara",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Chevalier",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Counsel",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Chairman",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Einstein",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Einstein",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "political rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Teller",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bethe",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Bush",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bush",
+    "type": "Support",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Fuchs",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Serber",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Serber",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Nichols",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bush",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Bush",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Wilkins",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Szilard",
+    "type": "intellectual collaboration",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Fermi",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Szilard",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Hornig",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Condon",
+    "to": "Groves",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Condon",
+    "to": "Groves",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Condon",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lomanitz",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lomanitz",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Nichols",
+    "to": "Lomanitz",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Tatlock",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Tatlock",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Garrison",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Johnson",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Johnson",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Pash",
+    "to": "Oppenheimer",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Pash",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Pash",
+    "to": "Johnson",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Groves",
+    "to": "Pash",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Pash",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Pash",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Pash",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Pash",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Pash",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Pash",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Pash",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Serber",
+    "to": "Oppenheimer",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Ruth",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Tolman",
+    "to": "Groves",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Oppenheimer",
+    "type": "intellectual collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Oppenheimer",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Teller",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Tolman",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Bethe",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bohr",
+    "to": "Serber",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bohr",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Neddermeyer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Serber",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Teller",
+    "to": "Bethe",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kisty",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Seth",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lilli",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Fuchs",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Teller",
+    "to": "Guard",
+    "type": "authority figure",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Rabi",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Rabi",
+    "to": "Fermi",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Bush",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Borden",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Borden",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "McGee",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Hornig",
+    "type": "intellectual collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Morrison",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Family Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kistiakowsky",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Fuchs",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Robb",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Kistiakowsky",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "Family Loyalty",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Fuchs",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Szilard",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Truman",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Szilard",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Glasses",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Szilard",
+    "to": "Germany",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Fermi",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Lawrence",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Stimson",
+    "to": "Marshall",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Stimson",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Bush",
+    "to": "Stimson",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Marshall",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Byrnes",
+    "to": "Bush",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Marshall",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Stimson",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Byrnes",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Stimson",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Gadget",
+    "to": "Fermi",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Stimson",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Stimson",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Frank",
+    "to": "Groves",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bethe",
+    "type": "intellectual collaboration",
+    "theme_type": "Knowledge and Discovery",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Rabi",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "family loyalty",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kistiakowsky",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Fermi",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kistiakowsky",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kistiakowsky",
+    "to": "Groves",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Weatherman",
+    "to": "Oppenheimer",
+    "type": "advice",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Weatherman",
+    "type": "Support",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Frank",
+    "to": "Groves",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Fermi",
+    "to": "Oppenheimer",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Teller",
+    "to": "Feynman",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bainbridge",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bainbridge",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Feynman",
+    "to": "Teller",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Bainbridge",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Bush",
+    "type": "professional collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Kistiakowsky",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Frank",
+    "to": "Oppenheimer",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kistiakowsky",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kistiakowsky",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Rabi",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Groves",
+    "to": "Serber",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Serber",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Air Force Officer",
+    "type": "professional collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Groves",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "GROVES",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "TRUMAN",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Crowd",
+    "to": "Oppenheimer",
+    "type": "Admiration",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Crowd",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Young Woman",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Truman",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Aide",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Young Man",
+    "to": "Woman",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Truman",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Byrnes",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Truman",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Kitty",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Frank",
+    "type": "family loyalty",
+    "theme_type": "Family and Relationships",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Ruth",
+    "to": "Strauss",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Ruth",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Fuchs",
+    "type": "Betrayal",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Borden",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer's enemies",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Borden",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "Suspected Betrayal",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Counsel",
+    "to": "Lewis",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Teller",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Volpe",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Garrison",
+    "to": "Rabi",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Strauss",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Strauss",
+    "type": "betrayal",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Borden",
+    "to": "Strauss",
+    "type": "Support",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Strauss",
+    "to": "Robb",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Nichols",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Volpe",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Robb",
+    "type": "political rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Gray",
+    "to": "Garrison",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Oppenheimer",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Chevalier",
+    "type": "romantic relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Robb",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Rabi",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Rabi",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Lawrence",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Rabi",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Teller",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Borden",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Robb",
+    "to": "Garrison",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Chairman",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Garrison",
+    "to": "Robb",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Gray",
+    "to": "Garrison",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Robb",
+    "to": "Borden",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Borden",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Hill",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Hill",
+    "to": "Strauss",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Hill",
+    "to": "Pastore",
+    "type": "intellectual collaboration",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Bush",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Dr Bush",
+    "to": "EVANS",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Hill",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Teller",
+    "to": "Hill",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Hill",
+    "to": "Strauss",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Groves",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Robb",
+    "to": "Groves",
+    "type": "support",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Garrison",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Garrison",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Garrison",
+    "type": "Support",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Hill",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Hill",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Kitty Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Robb",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Robb",
+    "to": "Kitty",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Teller",
+    "to": "Robb",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Teller",
+    "to": "Gray",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Tellerr",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Garrison",
+    "to": "Volpe",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "neutral"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Einstein",
+    "to": "Oppenheimer",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Einstein",
+    "type": "Intellectual Collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Einstein",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Robb",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Strauss",
+    "type": "support",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Robb",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Oppenheimer",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Robb",
+    "to": "Oppenheimer",
+    "type": "Personal Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Gray",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Justice and Injustice",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Love and Romance",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Garrison",
+    "to": "Kitty",
+    "type": "Support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "Romantic Relationship",
+    "theme_type": "Love and Romance",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Kennedy",
+    "type": "Political Rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "Professional Mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Strauss",
+    "type": "Betrayal and Conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Senate Aide",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Einstein",
+    "to": "Strauss",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Kitty",
+    "to": "Oppenheimer",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Rabi",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Lawrence",
+    "to": "Oppenheimer",
+    "type": "professional mentorship",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Oppenheimer",
+    "to": "Frank",
+    "type": "personal conflict",
+    "theme_type": "Betrayal and Conflict",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Einstein",
+    "to": "Oppenheimer",
+    "type": "intellectual collaboration",
+    "theme_type": "Ambition and Power",
+    "sentiment": "positive"
+  },
+  {
+    "from": "Strauss",
+    "to": "Oppenheimer",
+    "type": "political rivalry",
+    "theme_type": "Ambition and Power",
+    "sentiment": "negative"
+  },
+  {
+    "from": "Teller",
+    "to": "Kitty",
+    "type": "support",
+    "theme_type": "Friendship and Loyalty",
+    "sentiment": "positive"
+  }
+]
